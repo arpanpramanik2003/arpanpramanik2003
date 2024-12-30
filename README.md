@@ -55,20 +55,20 @@ Here are some highlights from my project portfolio:
 - **Model:** Random Forest
 - **Tech Stack:** Streamlit, Python, Scikit-learn
 - **Features:** Predictive analysis with user-friendly deployment
-- **Repository:** [View on GitHub](#https://github.com/arpanpramanik2003/Car-Price-Prediction-Streamlit.git)
+- **Repository:** [View on GitHub](https://github.com/arpanpramanik2003/Car-Price-Prediction-Streamlit.git)
 
 ### 🔥 Calories Burnt Prediction
 
 - **Tech Stack:** Flask, HTML, CSS
 - **Performance:** Achieved MAE of 1.48
 - **Features:** Lightweight web interface for predictions
-- **Repository:** [View on GitHub](#https://github.com/arpanpramanik2003/Calories_Burnt_Prediction_Using_Flask.git)
+- **Repository:** [View on GitHub](https://github.com/arpanpramanik2003/Calories_Burnt_Prediction_Using_Flask.git)
 
 ### 🖥️ Portfolio Website
 
 - **Tech Stack:** HTML, CSS
 - **Features:** Modern and responsive design showcasing my projects
-- **Repository:** [View on GitHub](#https://github.com/arpanpramanik2003/project-website.git)
+- **Repository:** [View on GitHub](https://github.com/arpanpramanik2003/project-website.git)
 
 Feel free to explore my repositories for more exciting projects!
 
