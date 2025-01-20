@@ -122,4 +122,4 @@ _"Machine learning is not magic; it's just math."_ 😎
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arpanpramanik2003.readme)
+![Visitor Count](https://badges.pufler.dev/visits/arpanpramanik2003/arpanpramanik2003)
