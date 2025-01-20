@@ -20,6 +20,9 @@ Here’s a snapshot of my technical arsenal:
 
 ### Programming Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23902D3F.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 - Python
 - JavaScript
 - C Programming
