@@ -21,7 +21,7 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 ### ⚙️ Frameworks & Libraries  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,express,nextjs,flask,streamlit" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,express,nextjs,flask" height="50"/>
 </p>
 
 ---
