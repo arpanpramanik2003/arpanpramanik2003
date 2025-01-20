@@ -22,6 +22,7 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,express,nextjs,flask" height="50"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B5C?style=for-the-badge&logo=streamlit&logoColor=white" height="50"/>
 </p>
 
 ---
