@@ -13,7 +13,7 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 ### 🖥️ Programming Languages  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,r" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,r" height="50"/>
 </p>
 
 ---
@@ -21,7 +21,7 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 ### ⚙️ Frameworks & Libraries  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,flask,streamlit" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,express,nextjs,flask,streamlit" height="50"/>
 </p>
 
 ---
@@ -29,6 +29,8 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 ### 📊 Machine Learning & Deep Learning  
 
 <p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -64,10 +66,23 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 | **Car Price Prediction**  | Streamlit, Python, Scikit-learn | [GitHub Repo](https://github.com/arpanpramanik2003/Car-Price-Prediction-Streamlit.git)  |
 | **Calories Burnt Prediction** | Flask, HTML, CSS, Python | [GitHub Repo](https://github.com/arpanpramanik2003/Calories_Burnt_Prediction_Using_Flask.git) |
 | **Personal Portfolio**    | HTML, CSS, JavaScript, Vercel  | [GitHub Repo](https://github.com/arpanpramanik2003/project-website.git)  |
-| **Medical Insurance Cost** | Stramlit, Python, Scikit-learn | [GitHub Repo](https://github.com/arpanpramanik2003/medical-insurance-cost-prediction.git)
-| **Object Detection**      | Tensorflow, Keras, OpenCV     | [GitHub Repo](https://github.com/arpanpramanik2003/object-detection-resnet50.git)
-| **Attendance Tracker**    | Python, Tkinter, Pandas       | [GitHub Repo](https://github.com/arpanpramanik2003/attendance-tracker.git)
-| **Jarvis Voice Assistant | Python, Wikipedia, WebBrowser  | [GitHub Repo](https://github.com/arpanpramanik2003/jarvis-voice-assistant.git)
+| **Medical Insurance Cost** | Streamlit, Python, Scikit-learn | [GitHub Repo](https://github.com/arpanpramanik2003/medical-insurance-cost-prediction.git) |
+| **Object Detection**      | TensorFlow, Keras, OpenCV     | [GitHub Repo](https://github.com/arpanpramanik2003/object-detection-resnet50.git) |
+| **Attendance Tracker**    | Python, Tkinter, Pandas       | [GitHub Repo](https://github.com/arpanpramanik2003/attendance-tracker.git) |
+| **Jarvis Voice Assistant** | Python, Wikipedia, WebBrowser | [GitHub Repo](https://github.com/arpanpramanik2003/jarvis-voice-assistant.git) |
+
+---
+
+## 🌐 Live Demos  
+
+Here are some live demos of my projects that you can explore:
+
+- **Car Price Prediction** – [Live Demo](https://car-price-prediction-streamlit-render.onrender.com/)
+- **Calories Burnt Prediction** – [Live Demo](https://calories-burnt-prediction-fe8m.onrender.com/)
+- **Project Website** - [Live Demo](https://project-website-three.vercel.app/)
+- **Loan Status Check** - [Live Demo](https://loan-status-prediction-2upm.onrender.com/)
+- **Medical Insurance Cost Prediction** - [Live Demo](https://medical-insurance-render-arpan.onrender.com/)
+- **Diabetes Ckeck** - [Live Demo](https://diabetes-prediction-render-arpan.onrender.com/)
 ---
 
 ## 📈 GitHub Stats  
@@ -105,4 +120,6 @@ _"Machine learning is not magic; it's just math."_ 😎
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀  
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=arpanpramanik2003.readme)
