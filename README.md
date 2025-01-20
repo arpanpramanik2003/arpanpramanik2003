@@ -1,85 +1,81 @@
-# 💻 About Me
+# 🚀 Arpan Pramanik – AIML Enthusiast & Developer  
 
-## 👋 Introduction
+![Profile Banner](https://img.shields.io/badge/AI%20ML%20Enthusiast-Transforming%20Ideas%20Into%20Reality-blue?style=for-the-badge)
 
-Hi there! I'm **Arpan Pramanik**, a passionate developer and student specializing in **Artificial Intelligence and Machine Learning (AIML)**. With a strong foundation in coding and a flair for problem-solving, I thrive on creating impactful solutions and exploring the latest technologies. Welcome to my GitHub profile! 🎉
+## 👋 Hello World!  
 
----
-
-## 🎓 Background
-
-I am currently pursuing a **B.Tech in CSE with AIML specialization** at **The Neotia University**. My coding journey began in 2020, and over the years, I have gained hands-on experience in multiple domains, including web development, machine learning, and cybersecurity.
-
-In addition to my academic pursuits, I recently completed a summer internship at **DataSpace Academy**, where I gained expertise in **cybersecurity** and **VAPT**.
+I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about crafting intelligent solutions and building impactful projects. Currently pursuing **B.Tech in CSE (AIML)** at **The Neotia University**, I enjoy working on **Machine Learning, Deep Learning, and Web Development**, and I'm always eager to learn new technologies.  
 
 ---
 
-## 🛠️ Skills
+## 🔥 Expertise  
 
-Here’s a snapshot of my technical arsenal:
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23902D3F.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-- Python
-- JavaScript
-- C Programming
-- R Programming
-
-### Frameworks & Libraries
-
-- Flask, Django, FastAPI
-- Streamlit
-- HTML, CSS, JavaScript
-
-### Tools & Platforms
-
-- Git
-- MySQL
-- Docker
-- AWS
-
-### Additional Expertise
-
-- Cybersecurity and VAPT (Vulnerability Assessment and Penetration Testing)
-- Optimization Techniques
-- Debugging and Problem-Solving
+### 💻 **Tech Stack**  
+- **Machine Learning:** Scikit-learn, Pandas, NumPy, Matplotlib  
+- **Deep Learning:** TensorFlow, Keras  
+- **Web Development:** Flask, Streamlit, HTML, CSS, JavaScript  
+- **Databases & Cloud:** MySQL, AWS, Render, Vercel  
+- **Programming Languages:** Python, C, JavaScript, R  
 
 ---
 
-## 🚀 Projects
+## 🏆 Featured Projects  
 
-Here are some highlights from my project portfolio:
-
-### 🌟 Car Price Prediction
-
-- **Model:** Random Forest
-- **Tech Stack:** Streamlit, Python, Scikit-learn
-- **Features:** Predictive analysis with user-friendly deployment
-- **Repository:** [View on GitHub](https://github.com/arpanpramanik2003/Car-Price-Prediction-Streamlit.git)
-
-### 🔥 Calories Burnt Prediction
-
-- **Tech Stack:** Flask, HTML, CSS
-- **Performance:** Achieved MAE of 1.48
-- **Features:** Lightweight web interface for predictions
-- **Repository:** [View on GitHub](https://github.com/arpanpramanik2003/Calories_Burnt_Prediction_Using_Flask.git)
-
-### 🖥️ Portfolio Website
-
-- **Tech Stack:** HTML, CSS
-- **Features:** Modern and responsive design showcasing my projects
-- **Repository:** [View on GitHub](https://github.com/arpanpramanik2003/project-website.git)
-
-Feel free to explore my repositories for more exciting projects!
+| 🔍 Project                | 🚀 Tech Stack                  | 🔗 Repository                                                                 |
+|--------------------------|-------------------------------|------------------------------------------------------------------------------|
+| **Car Price Prediction**  | Streamlit, Python, Scikit-learn | [GitHub Repo](https://github.com/arpanpramanik2003/Car-Price-Prediction-Streamlit.git)  |
+| **Calories Burnt Prediction** | Flask, HTML, CSS, Python | [GitHub Repo](https://github.com/arpanpramanik2003/Calories_Burnt_Prediction_Using_Flask.git) |
+| **Personal Portfolio**    | HTML, CSS, JavaScript, Vercel  | [GitHub Repo](https://github.com/arpanpramanik2003/project-website.git)  |
 
 ---
 
-## 🌐 Connect with Me
+## 🌱 What I'm Currently Learning  
 
-I’m always open to connecting with fellow developers and collaborating on innovative ideas. Reach out to me through:
+- 🧠 Advanced Machine Learning Algorithms  
+- 🌐 FastAPI for high-performance applications  
+- 🚀 Cloud Deployment strategies (AWS, Render, Vercel)  
 
-- **📧 Email:** [pramanikarpan089@gmail.com](mailto\:pramanikarpan089@gmail.com)
-- **🔗 LinkedIn:** https\://www\.linkedin.com/in/arpan-pramanik-6a409228a
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpanpramanik2003&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanpramanik2003&layout=compact&theme=tokyonight)  
+
+</div>
+
+---
+
+## 🛠️ Tools & Technologies  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="mailto:pramanikarpan089@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arpan-pramanik-6a409228a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/arpanpramanik2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 🎯 Fun Fact  
+
+_"Machine learning is not magic; it's just math."_ 😎  
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀  
