@@ -8,14 +8,52 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 
 ---
 
-## 🔥 Expertise  
+## 🔥 My Skills  
 
-### 💻 **Tech Stack**  
-- **Machine Learning:** Scikit-learn, Pandas, NumPy, Matplotlib  
-- **Deep Learning:** TensorFlow, Keras  
-- **Web Development:** Flask, Streamlit, HTML, CSS, JavaScript  
-- **Databases & Cloud:** MySQL, AWS, Render, Vercel  
-- **Programming Languages:** Python, C, JavaScript, R  
+### 🖥️ Programming Languages  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,r" height="50"/>
+</p>
+
+---
+
+### ⚙️ Frameworks & Libraries  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,flask,streamlit" height="50"/>
+</p>
+
+---
+
+### 📊 Machine Learning & Deep Learning  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Web Development  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,flask" height="50"/>
+</p>
+
+---
+
+### ☁️ Databases & Cloud  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,aws" height="50"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
@@ -26,15 +64,10 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 | **Car Price Prediction**  | Streamlit, Python, Scikit-learn | [GitHub Repo](https://github.com/arpanpramanik2003/Car-Price-Prediction-Streamlit.git)  |
 | **Calories Burnt Prediction** | Flask, HTML, CSS, Python | [GitHub Repo](https://github.com/arpanpramanik2003/Calories_Burnt_Prediction_Using_Flask.git) |
 | **Personal Portfolio**    | HTML, CSS, JavaScript, Vercel  | [GitHub Repo](https://github.com/arpanpramanik2003/project-website.git)  |
-
----
-
-## 🌱 What I'm Currently Learning  
-
-- 🧠 Advanced Machine Learning Algorithms  
-- 🌐 FastAPI for high-performance applications  
-- 🚀 Cloud Deployment strategies (AWS, Render, Vercel)  
-
+| **Medical Insurance Cost** | Stramlit, Python, Scikit-learn | [GitHub Repo](https://github.com/arpanpramanik2003/medical-insurance-cost-prediction.git)
+| **Object Detection**      | Tensorflow, Keras, OpenCV     | [GitHub Repo](https://github.com/arpanpramanik2003/object-detection-resnet50.git)
+| **Attendance Tracker**    | Python, Tkinter, Pandas       | [GitHub Repo](https://github.com/arpanpramanik2003/attendance-tracker.git)
+| **Jarvis Voice Assistant | Python, Wikipedia, WebBrowser  | [GitHub Repo](https://github.com/arpanpramanik2003/jarvis-voice-assistant.git)
 ---
 
 ## 📈 GitHub Stats  
@@ -48,17 +81,11 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 
 ---
 
-## 🛠️ Tools & Technologies  
+## 🌱 What I'm Currently Learning  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+- 🧠 Advanced Machine Learning Algorithms  
+- 🌐 FastAPI for high-performance applications  
+- 🚀 Cloud Deployment strategies (AWS, Render, Vercel)  
 
 ---
 
