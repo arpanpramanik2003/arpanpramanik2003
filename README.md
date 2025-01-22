@@ -73,8 +73,8 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 | **Attendance Tracker**    | Python, Tkinter, Pandas       | [GitHub Repo](https://github.com/arpanpramanik2003/attendance-tracker.git) |
 | **Jarvis Voice Assistant** | Python, Wikipedia, WebBrowser | [GitHub Repo](https://github.com/arpanpramanik2003/jarvis-voice-assistant.git) |
 | **MNIST Digit Classification** | Tensorflow, Keras, Opencv | [GitHub Repo](https://github.com/arpanpramanik2003/mnist-digit-classification.git) |
-| **Sentiment Analysis LSTM** | Tensorflow, Keras, LSTM | [GitHub](https://github.com/arpanpramanik2003/sentiment-analysis-lstm.git) |
-| **Loan Status Prediction** | Scikit-learn, Python, Streamlit | [GitHub](https://github.com/arpanpramanik2003/loan-status-prediction.git)
+| **Sentiment Analysis LSTM** | Tensorflow, Keras, LSTM | [GitHub Repo](https://github.com/arpanpramanik2003/sentiment-analysis-lstm.git) |
+| **Loan Status Prediction** | Scikit-learn, Python, Streamlit | [GitHub Repo](https://github.com/arpanpramanik2003/loan-status-prediction.git)
 
 ---
 
