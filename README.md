@@ -127,4 +127,4 @@ _"Machine learning is not magic; it's just math."_ 😎
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
 
-![Visitor Count](https://badges.pufler.dev/visits/arpanpramanik2003/arpanpramanik2003)
+![Visitor Count](https://komarev.com/ghpvc/?username=arpanpramanik2003&color=green)
