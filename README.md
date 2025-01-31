@@ -75,6 +75,7 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 | **MNIST Digit Classification** | Tensorflow, Keras, Opencv | [GitHub Repo](https://github.com/arpanpramanik2003/mnist-digit-classification.git) |
 | **Sentiment Analysis LSTM** | Tensorflow, Keras, LSTM | [GitHub Repo](https://github.com/arpanpramanik2003/sentiment-analysis-lstm.git) |
 | **Loan Status Prediction** | Scikit-learn, Python, Streamlit | [GitHub Repo](https://github.com/arpanpramanik2003/loan-status-prediction.git)
+| **Traffic Accident Analysis** | Scikit-learn, Python, Full EDA | [Github Repo](https://github.com/arpanpramanik2003/traffic-accident-analysis.git)
 
 ---
 
