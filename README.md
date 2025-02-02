@@ -76,6 +76,7 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 | **Sentiment Analysis LSTM** | Tensorflow, Keras, LSTM | [GitHub Repo](https://github.com/arpanpramanik2003/sentiment-analysis-lstm.git) |
 | **Loan Status Prediction** | Scikit-learn, Python, Streamlit | [GitHub Repo](https://github.com/arpanpramanik2003/loan-status-prediction.git)
 | **Traffic Accident Analysis** | Scikit-learn, Python, Full EDA | [Github Repo](https://github.com/arpanpramanik2003/traffic-accident-analysis.git)
+| **Smart Waste Classification** | Tensorflow, MobileNetV2, Streamlit | [Github Repo](https://github.com/arpanpramanik2003/smart-waste-classification.git)
 
 ---
 
@@ -89,6 +90,7 @@ Here are some live demos of my projects that you can explore:
 - **Loan Status Check** - [Live Demo](https://loan-status-prediction-2upm.onrender.com/)
 - **Medical Insurance Cost Prediction** - [Live Demo](https://medical-insurance-render-arpan.onrender.com/)
 - **Diabetes Ckeck** - [Live Demo](https://diabetes-prediction-render-arpan.onrender.com/)
+- **Smart Waste Classification** - [Live Demo](https://smart-waste-classification-arpan.streamlit.app/)
 ---
 
 ## 📈 GitHub Stats  
