@@ -92,6 +92,7 @@ Here are some live demos of my projects that you can explore:
 - **Medical Insurance Cost Prediction** - [Live Demo](https://medical-insurance-render-arpan.onrender.com/)
 - **Diabetes Ckeck** - [Live Demo](https://diabetes-prediction-render-arpan.onrender.com/)
 - **Smart Waste Classification** - [Live Demo](https://smart-waste-classification-arpan.streamlit.app/)
+- **Fruit-Veg Classification** - [Live Demo](https://fruit-veg-detection-custom-cnn-arpan.streamlit.app/)
 ---
 
 ## 📈 GitHub Stats  
