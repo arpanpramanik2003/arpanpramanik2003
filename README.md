@@ -110,7 +110,7 @@ Here are some live demos of my projects that you can explore:
 
 - 🧠 Advanced Machine Learning Algorithms  
 - 🌐 FastAPI for high-performance applications  
-- 🚀 Cloud Deployment strategies (AWS, Render, Vercel)  
+- 🚀 Cloud Deployment strategies (AWS, Render, Vercel, Streamlit-Cloud)  
 
 ---
 
