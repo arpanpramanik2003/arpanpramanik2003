@@ -77,6 +77,7 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 | **Loan Status Prediction** | Scikit-learn, Python, Streamlit | [GitHub Repo](https://github.com/arpanpramanik2003/loan-status-prediction.git)
 | **Traffic Accident Analysis** | Scikit-learn, Python, Full EDA | [Github Repo](https://github.com/arpanpramanik2003/traffic-accident-analysis.git)
 | **Smart Waste Classification** | Tensorflow, MobileNetV2, Streamlit | [Github Repo](https://github.com/arpanpramanik2003/smart-waste-classification.git)
+| **Fruit-Veg Classification**  | Tensorflow, EfficentNet, Streamlit | [Github Repo](https://github.com/arpanpramanik2003/fruit-veg-classification.git)
 
 ---
 
