@@ -77,8 +77,9 @@ I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer**, passionate about craftin
 | **Loan Status Prediction** | Scikit-learn, Python, Streamlit | [GitHub Repo](https://github.com/arpanpramanik2003/loan-status-prediction.git)
 | **Traffic Accident Analysis** | Scikit-learn, Python, Full EDA | [Github Repo](https://github.com/arpanpramanik2003/traffic-accident-analysis.git)
 | **Smart Waste Classification** | Tensorflow, MobileNetV2, Streamlit | [Github Repo](https://github.com/arpanpramanik2003/smart-waste-classification.git)
-| **Fruit-Veg Classification**  | Tensorflow, EfficientNet, Streamlit | [Github Repo](https://github.com/arpanpramanik2003/fruit-veg-classification.git)
+| **Fruit-Veg Classification**  | Tensorflow, EfficientNetB3, Streamlit | [Github Repo](https://github.com/arpanpramanik2003/fruit-veg-classification.git)
 | **Sign Language Recognition** | Tensorflow, Xception, Opencv | [Github Repo](https://github.com/arpanpramanik2003/sign-language-recognition.git)
+| **Pneumonia Detection** | Tensorflow, VGG16, Streamlit | [Github Repo](https://github.com/arpanpramanik2003/chest-xray-pneumonia-classifier.git)
 
 ---
 
