@@ -95,6 +95,7 @@ Here are some live demos of my projects that you can explore:
 - **Diabetes Ckeck** - [Live Demo](https://diabetes-prediction-render-arpan.onrender.com/)
 - **Smart Waste Classification** - [Live Demo](https://smart-waste-classification-arpan.streamlit.app/)
 - **Fruit-Veg Classification** - [Live Demo](https://fruit-veg-detection-custom-cnn-arpan.streamlit.app/)
+- **Sign Language Recognition** - [Live Demo](https://sign-language-recognition-arpan.streamlit.app/)
 - **Pneumonia Detector** - [Live Demo](https://chest-xray-pneumonia-classifier-arpan.streamlit.app/)
 ---
 
