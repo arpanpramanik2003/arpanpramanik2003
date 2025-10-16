@@ -132,12 +132,9 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpanpramanik2003&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanpramanik2003&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanpramanik2003&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanpramanik2003&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=5&hide=jupyter%20notebook" />
 
 </div>
-
-
-
 ---
 
 ## 🏆 GitHub Trophies
