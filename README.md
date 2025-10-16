@@ -18,7 +18,37 @@
 ---
 
 ## 🎓 About Me
+name: Arpan Pramanik
+located_in: West Bengal, India
+current_education: B.Tech in CSE (AIML) @ The Neotia University
+fields_of_interests:
 
+Artificial Intelligence & Machine Learning
+
+Full-Stack Web Development
+
+Deep Learning & Computer Vision
+
+Cloud Computing & DevOps
+
+API Development & System Design
+currently_learning:
+
+Advanced Neural Network Architectures
+
+FastAPI & Microservices
+
+Cloud Deployment (AWS, Railway, Render)
+
+PostgreSQL & MongoDB Optimization
+2025_goals:
+
+Contribute to Open Source Projects
+
+Build Production-Ready AI Applications
+
+Master Cloud-Native Development
+hobbies: ["Badminton", "Coding", "Tech Blogging", "Problem Solving"]
 
 ---
 
@@ -180,10 +210,15 @@
 
 <div align="center">
 
-
-
+| Achievement | Description |
+|-------------|-------------|
+| ✨ 15+ Machine Learning Projects | 🚀 10+ Production Deployments |
+| 🎯 99.9% Model Accuracy Achieved | 💻 Full-Stack Development Expertise |
+| 📊 Advanced Data Analysis Skills | ☁️ Cloud Deployment Experience |
+| 🔬 Research Publication Ready | 🌐 RESTful API Development |
 
 </div>
+
 
 ---
 
