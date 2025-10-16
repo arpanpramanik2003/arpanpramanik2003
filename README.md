@@ -19,34 +19,34 @@
 
 ## 🎓 About Me
 
-Hi! I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer** and **Full-Stack Developer** from West Bengal, India, currently pursuing **B.Tech in CSE (AIML)** at **The Neotia University**.
+<div align="center">
 
-### 💼 What I Do
-- 🤖 Build intelligent AI/ML solutions with TensorFlow, Keras & PyTorch
-- 🌐 Develop full-stack web applications using MERN stack
-- 📊 Analyze and visualize data to extract meaningful insights
-- ☁️ Deploy scalable applications on AWS, Render & Railway
+**Arpan Pramanik** | AI/ML Enthusiast | Full-Stack Developer  
+🎓 B.Tech CSE (AIML) @ The Neotia University | 📍 West Bengal, India
 
-### 🔥 Areas of Interest
-- Artificial Intelligence & Machine Learning
-- Full-Stack Web Development (MERN Stack)
-- Deep Learning & Computer Vision
-- Cloud Computing & DevOps
-- API Development & System Design
+---
 
-### 📚 Currently Exploring
-- Advanced Neural Network Architectures
-- FastAPI & Microservices Architecture
-- Cloud Deployment Strategies (AWS, Railway, Render)
-- Database Optimization (PostgreSQL & MongoDB)
+### 🔍 Quick Facts
 
-### 🎯 Goals for 2025
-- ✅ Contribute to impactful Open Source Projects
-- ✅ Build and deploy Production-Ready AI Applications
-- ✅ Master Cloud-Native Development practices
+![Interests](https://img.shields.io/badge/Interests-AI%20%7C%20ML%20%7C%20Web%20Dev%20%7C%20Cloud-blue?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20AWS%20%7C%20Microservices-green?style=flat-square)
+![Goals](https://img.shields.io/badge/2025%20Goals-Open%20Source%20%7C%20Production%20AI-orange?style=flat-square)
+![Hobbies](https://img.shields.io/badge/Hobbies-Badminton%20%7C%20Coding%20%7C%20Blogging-purple?style=flat-square)
 
-### 🎮 Beyond Coding
-When I'm not coding, you'll find me playing **badminton** 🏸, writing **tech blogs** 📝, or solving challenging **programming problems** 🧩.
+</div>
+
+---
+
+### 💡 What I'm Passionate About
+
+- 🤖 **AI/ML**: Building intelligent systems with TensorFlow, Keras & PyTorch
+- 🌐 **Full-Stack**: Creating seamless experiences with MERN stack
+- 👁️ **Computer Vision**: Developing CNN models for real-world applications
+- ☁️ **Cloud & DevOps**: Deploying scalable solutions on AWS, Render & Railway
+- 🔌 **APIs**: Designing robust RESTful services with Node.js & FastAPI
+
+### 📈 Current Focus
+
 
 
 ---
