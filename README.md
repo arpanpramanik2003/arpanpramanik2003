@@ -225,11 +225,6 @@
 🔗 **LinkedIn:** [Arpan Pramanik](https://www.linkedin.com/in/arpan-pramanik-6a409228a)  
 🌐 **Portfolio:** [Live Portfolio](https://project-website-three.vercel.app/)
 
----
-
-### 💭 Quote of the Day
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=default)
 
 ---
 
