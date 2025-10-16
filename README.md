@@ -133,9 +133,10 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanpramanik2003&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanpramanik2003&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=arpanpramanik2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=arpanpramanik2003&limit=5&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&combine_all_yearly_contributions=true" />
 
 </div>
+
 
 ---
 
