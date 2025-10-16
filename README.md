@@ -19,77 +19,35 @@
 
 ## 🎓 About Me
 
-<div align="center">
+Hi! I'm **Arpan Pramanik**, an aspiring **AI/ML Engineer** and **Full-Stack Developer** from West Bengal, India, currently pursuing **B.Tech in CSE (AIML)** at **The Neotia University**.
 
-```yaml
-profile:
-  name: "Arpan Pramanik"
-  location: "📍 West Bengal, India"
-  current_education: "B.Tech in CSE (AIML) @ The Neotia University"
-  role: "💻 Full-Stack Developer | 🤖 AI/ML Engineer"
-```
+### 💼 What I Do
+- 🤖 Build intelligent AI/ML solutions with TensorFlow, Keras & PyTorch
+- 🌐 Develop full-stack web applications using MERN stack
+- 📊 Analyze and visualize data to extract meaningful insights
+- ☁️ Deploy scalable applications on AWS, Render & Railway
 
-</div>
+### 🔥 Areas of Interest
+- Artificial Intelligence & Machine Learning
+- Full-Stack Web Development (MERN Stack)
+- Deep Learning & Computer Vision
+- Cloud Computing & DevOps
+- API Development & System Design
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+### 📚 Currently Exploring
+- Advanced Neural Network Architectures
+- FastAPI & Microservices Architecture
+- Cloud Deployment Strategies (AWS, Railway, Render)
+- Database Optimization (PostgreSQL & MongoDB)
 
-### 🎯 Fields of Interests
+### 🎯 Goals for 2025
+- ✅ Contribute to impactful Open Source Projects
+- ✅ Build and deploy Production-Ready AI Applications
+- ✅ Master Cloud-Native Development practices
 
-```diff
-+ Artificial Intelligence & Machine Learning
-+ Full-Stack Web Development
-+ Deep Learning & Computer Vision
-+ Cloud Computing & DevOps
-+ API Development & System Design
-```
+### 🎮 Beyond Coding
+When I'm not coding, you'll find me playing **badminton** 🏸, writing **tech blogs** 📝, or solving challenging **programming problems** 🧩.
 
-</td>
-<td width="50%" valign="top">
-
-### 📚 Currently Learning
-
-```javascript
-const learning = {
-  "Advanced Neural Network Architectures": "🧠",
-  "FastAPI & Microservices": "⚡",
-  "Cloud Deployment": "☁️ AWS, Railway, Render",
-  "Database Optimization": "🗄️ PostgreSQL & MongoDB"
-};
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 2025 Goals
-
-<div align="center">
-
-![Goal 1](https://img.shields.io/badge/🌟-Contribute_to_Open_Source_Projects-00D9FF?style=for-the-badge)
-![Goal 2](https://img.shields.io/badge/🚀-Build_Production_Ready_AI_Applications-00D9FF?style=for-the-badge)
-![Goal 3](https://img.shields.io/badge/☁️-Master_Cloud_Native_Development-00D9FF?style=for-the-badge)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Hobbies
-
-<div align="center">
-
-| 🏸 Badminton | 💻 Coding |
-|:---:|:---:|
-| **📝 Tech Blogging** | **🧩 Problem Solving** |
-
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -260,8 +218,6 @@ const learning = {
 
 </div>
 
-
----
 
 ## 📬 Let's Connect!
 
