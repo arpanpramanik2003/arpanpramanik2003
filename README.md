@@ -18,37 +18,78 @@
 ---
 
 ## 🎓 About Me
-name: Arpan Pramanik
-located_in: West Bengal, India
-current_education: B.Tech in CSE (AIML) @ The Neotia University
-fields_of_interests:
 
-Artificial Intelligence & Machine Learning
+<div align="center">
 
-Full-Stack Web Development
+```yaml
+profile:
+  name: "Arpan Pramanik"
+  location: "📍 West Bengal, India"
+  current_education: "B.Tech in CSE (AIML) @ The Neotia University"
+  role: "💻 Full-Stack Developer | 🤖 AI/ML Engineer"
+```
 
-Deep Learning & Computer Vision
+</div>
 
-Cloud Computing & DevOps
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-API Development & System Design
-currently_learning:
+### 🎯 Fields of Interests
 
-Advanced Neural Network Architectures
+```diff
++ Artificial Intelligence & Machine Learning
++ Full-Stack Web Development
++ Deep Learning & Computer Vision
++ Cloud Computing & DevOps
++ API Development & System Design
+```
 
-FastAPI & Microservices
+</td>
+<td width="50%" valign="top">
 
-Cloud Deployment (AWS, Railway, Render)
+### 📚 Currently Learning
 
-PostgreSQL & MongoDB Optimization
-2025_goals:
+```javascript
+const learning = {
+  "Advanced Neural Network Architectures": "🧠",
+  "FastAPI & Microservices": "⚡",
+  "Cloud Deployment": "☁️ AWS, Railway, Render",
+  "Database Optimization": "🗄️ PostgreSQL & MongoDB"
+};
+```
 
-Contribute to Open Source Projects
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Build Production-Ready AI Applications
+### 🎯 2025 Goals
 
-Master Cloud-Native Development
-hobbies: ["Badminton", "Coding", "Tech Blogging", "Problem Solving"]
+<div align="center">
+
+![Goal 1](https://img.shields.io/badge/🌟-Contribute_to_Open_Source_Projects-00D9FF?style=for-the-badge)
+![Goal 2](https://img.shields.io/badge/🚀-Build_Production_Ready_AI_Applications-00D9FF?style=for-the-badge)
+![Goal 3](https://img.shields.io/badge/☁️-Master_Cloud_Native_Development-00D9FF?style=for-the-badge)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Hobbies
+
+<div align="center">
+
+| 🏸 Badminton | 💻 Coding |
+|:---:|:---:|
+| **📝 Tech Blogging** | **🧩 Problem Solving** |
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
