@@ -246,19 +246,17 @@
 
 ---
 
-## 🐍 Contributions - Snake Visualization
+## 🐍 Contributions in the Last Year
+
+[![GitHub Streak](https://streak.githubsandwich.com/?user=arpanpramanik2003&theme=dark)](https://github.com/arpanpramanik2003)
+
+### My Stats
 
 <div align="center">
-  <a href="https://github.com/arpanpramanik2003">
-    <img src="https://raw.githubusercontent.com/arpanpramanik2003/arpanpramanik2003/main/.github/workflows/snake.svg" alt="Snake animation" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=arpanpramanik2003&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanpramanik2003&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-### Activity Stats
+### Contribution Graph
 
-![GitHub Streak](https://streak.githubsandwich.com/?user=arpanpramanik2003&theme=dark)
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=arpanpramanik2003&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanpramanik2003&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arpanpramanik2003&theme=rogue)
