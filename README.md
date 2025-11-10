@@ -246,10 +246,19 @@
 
 ---
 
-## 🐍 Contributions in the Last Year
-
-[![GitHub Streak](https://streak.githubsandwich.com/?user=arpanpramanik2003&theme=dark)](https://github.com/arpanpramanik2003)
+## 🐍 Contributions - Snake Visualization
 
 <div align="center">
-  <img src="https://github.com/arpanpramanik2003/arpanpramanik2003/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
+  <a href="https://github.com/arpanpramanik2003">
+    <img src="https://raw.githubusercontent.com/arpanpramanik2003/arpanpramanik2003/main/.github/workflows/snake.svg" alt="Snake animation" />
+  </a>
+</div>
+
+### Activity Stats
+
+![GitHub Streak](https://streak.githubsandwich.com/?user=arpanpramanik2003&theme=dark)
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=arpanpramanik2003&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanpramanik2003&layout=compact&theme=dark" alt="Top Languages" />
 </div>
