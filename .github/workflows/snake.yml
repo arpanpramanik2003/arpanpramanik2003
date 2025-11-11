@@ -8,6 +8,7 @@ on:
     branches:
       - master
       - copilot/add-snake-game-contribution-panel
+      - copilot/fix-snake-game-contribution
 
 jobs:
   build:
@@ -18,17 +19,17 @@ jobs:
       - uses: actions/checkout@v4
       
       - name: Generate snake animation
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      - name: Push generated files
-        uses: EndBug/add-and-commit@v9
+      - name: Push generated files to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          default_author: github_actions
-          message: 'Generate snake animation'
-          add: 'dist/'
-          branch: output
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
