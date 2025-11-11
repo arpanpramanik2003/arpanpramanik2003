@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - master
+      - copilot/add-snake-game-contribution-panel
 
 jobs:
   build:
