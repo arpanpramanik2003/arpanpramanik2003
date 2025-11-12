@@ -237,7 +237,7 @@
 💼 **Open to Opportunities:** Internships, Collaborations, Freelance Projects  
 📧 **Email:** pramanikarpan089@gmail.com  
 🔗 **LinkedIn:** [Arpan Pramanik](https://www.linkedin.com/in/arpan-pramanik-6a409228a)  
-🌐 **Portfolio:** [Live Portfolio](https://project-website-three.vercel.app/)
+🌐 **Portfolio:** [Live Portfolio](https://www.arpanpramanik.dev)
 
 
 ---
