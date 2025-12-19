@@ -154,7 +154,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arpanpramanik2003&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arpanpramanik2003&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
