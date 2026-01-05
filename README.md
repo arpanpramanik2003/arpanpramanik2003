@@ -137,7 +137,7 @@
 </a>
 
 <a href="https://github.com/arpanpramanik2003">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanpramanik2003&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&count_private=true" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanpramanik2003&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&count_private=true&hide=jupyter%20notebook" alt="Top Languages" />
 </a>
 
 </div>
