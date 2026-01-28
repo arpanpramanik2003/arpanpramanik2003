@@ -30,7 +30,7 @@
 
 ![Interests](https://img.shields.io/badge/Interests-AI%20%7C%20ML%20%7C%20Web%20Dev%20%7C%20Cloud-blue?style=flat-square)
 ![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20AWS%20%7C%20Microservices-green?style=flat-square)
-![Goals](https://img.shields.io/badge/2025%20Goals-Open%20Source%20%7C%20Production%20AI-orange?style=flat-square)
+![Goals](https://img.shields.io/badge/2026%20Goals-Open%20Source%20%7C%20Production%20AI-orange?style=flat-square)
 ![Hobbies](https://img.shields.io/badge/Hobbies-Badminton%20%7C%20Coding%20%7C%20Blogging-purple?style=flat-square)
 
 </div>
