@@ -234,6 +234,15 @@
 
 *Lightweight multi-headed CNN for potato and tomato quality classification. Achieves 99.9% crop classification and 98.5% quality detection accuracy with Grad-CAM visualizations, deployed via Streamlit for real-time precision agriculture.*
 
+---
+
+### 📄 Paper 3: An Explainable Deep Learning Approach for Quality Assessment in Solanaceous Crops
+
+**Authors:** Shibdas Dutta, Barshan Adhikari, Arpan Pramanik, Diya Chanda  
+**DOI:** [10.1109/COMPUTINGCON64838.2025.11376762](https://doi.org/10.1109/COMPUTINGCON64838.2025.11376762)
+
+*A novel multi-headed hybrid CNN-ViT model for simultaneous classification of potato and tomato crops with quality assessment (healthy vs. diseased). Uses a shared Vision Transformer-based backbone with task-specific output heads for multi-task learning, reducing parameters by over 30%. Achieves 98.45% accuracy in potato classification and 97.49% for tomato, with 98.5% overall quality assessment accuracy, enhanced by Grad-CAM visualizations and deployed via Streamlit.*
+
 </div>
 
 ---
