@@ -155,7 +155,7 @@
 <div align="center">
 
 <a href="https://github.com/arpanpramanik2003">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpanpramanik2003&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpanpramanik2003&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/arpanpramanik2003">
   <img width="49%" src="https://streak-stats.demolab.com?user=arpanpramanik2003&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
@@ -164,7 +164,7 @@
 <br>
 
 <a href="https://github.com/arpanpramanik2003">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanpramanik2003&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&count_private=true&hide=jupyter%20notebook" alt="Top Languages" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanpramanik2003&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&count_private=true&hide=jupyter%20notebook&cache_seconds=86400" alt="Top Languages" />
 </a>
 
 </div>
@@ -193,7 +193,9 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arpanpramanik2003&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=arpanpramanik2003&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -233,7 +235,8 @@
 > **Paper 1:** *FruitQ-GradeX: Determining Fruit Quality and Grading with Explainable Deep Learning*
 >
 > Shibdas Dutta, Subhrendu Guha Neogi, Diya Chanda, **Arpan Pramanik**, Özgün Girgin, Enes Ladin Öncül
-> &nbsp;|&nbsp; [DOI: 10.1109/ICRITO66076.2025.11241706](https://doi.org/10.1109/ICRITO66076.2025.11241706)
+>
+> [DOI: 10.1109/ICRITO66076.2025.11241706](https://doi.org/10.1109/ICRITO66076.2025.11241706)
 >
 > Multi-task deep learning framework for fruit classification and quality assessment using multi-headed CNN. **98% classification & 99% quality detection accuracy** with Grad-CAM interpretability.
 
@@ -242,7 +245,8 @@
 > **Paper 2:** *CropSense: Explainable Deep Learning Framework for Accurate Quality Detection in Solanaceous Crops*
 >
 > Shibdas Dutta, Subhrendu Guha Neogi, Shiladitya Chowdhury, Vikrant Chole, **Arpan Pramanik**, Diya Chanda
-> &nbsp;|&nbsp; [DOI: 10.1109/ICRITO66076.2025.11241535](https://doi.org/10.1109/ICRITO66076.2025.11241535)
+>
+> [DOI: 10.1109/ICRITO66076.2025.11241535](https://doi.org/10.1109/ICRITO66076.2025.11241535)
 >
 > Lightweight multi-headed CNN for potato and tomato quality classification. **99.9% crop classification & 98.5% quality detection accuracy** with Grad-CAM, deployed via Streamlit.
 
@@ -251,7 +255,8 @@
 > **Paper 3:** *An Explainable Deep Learning Approach for Quality Assessment in Solanaceous Crops*
 >
 > Shibdas Dutta, Barshan Adhikari, **Arpan Pramanik**, Diya Chanda
-> &nbsp;|&nbsp; [DOI: 10.1109/COMPUTINGCON64838.2025.11376762](https://doi.org/10.1109/COMPUTINGCON64838.2025.11376762)
+>
+> [DOI: 10.1109/COMPUTINGCON64838.2025.11376762](https://doi.org/10.1109/COMPUTINGCON64838.2025.11376762)
 >
 > Hybrid CNN-ViT model for simultaneous crop classification and quality assessment. Reduces parameters by 30%+. **98.45% potato & 97.49% tomato classification accuracy** with 98.5% quality assessment.
 
