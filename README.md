@@ -232,7 +232,7 @@
 
 <div align="center">
 
-> **Paper 1:** *FruitQ-GradeX: Determining Fruit Quality and Grading with Explainable Deep Learning*
+> **Paper 1:** ***FruitQ-GradeX: Determining Fruit Quality and Grading with Explainable Deep Learning***
 >
 > Shibdas Dutta, Subhrendu Guha Neogi, Diya Chanda, **Arpan Pramanik**, Özgün Girgin, Enes Ladin Öncül
 >
@@ -242,7 +242,7 @@
 
 ---
 
-> **Paper 2:** *CropSense: Explainable Deep Learning Framework for Accurate Quality Detection in Solanaceous Crops*
+> **Paper 2:** ***CropSense: Explainable Deep Learning Framework for Accurate Quality Detection in Solanaceous Crops***
 >
 > Shibdas Dutta, Subhrendu Guha Neogi, Shiladitya Chowdhury, Vikrant Chole, **Arpan Pramanik**, Diya Chanda
 >
@@ -252,7 +252,7 @@
 
 ---
 
-> **Paper 3:** *An Explainable Deep Learning Approach for Quality Assessment in Solanaceous Crops*
+> **Paper 3:** ***An Explainable Deep Learning Approach for Quality Assessment in Solanaceous Crops***
 >
 > Shibdas Dutta, Barshan Adhikari, **Arpan Pramanik**, Diya Chanda
 >
