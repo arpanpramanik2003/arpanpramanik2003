@@ -216,24 +216,88 @@ Hey there! 👋 I'm **Arpan Pramanik**, a passionate **AI/ML Engineer & Full-Sta
 <tr>
 <td width="50%">
 
-### 🔭 Working On
-- **Production-Grade SaaS AI Platforms** & RAG Architectures
-- **Multi-LLM Failover Routing** & Agentic AI Workflows
-- **Explainable Deep Learning Models** (XAI & Computer Vision)
-- **High-Performance Full-Stack Applications** (Next.js & FastAPI)
+### 🚀 Active Development
+- 🟢 **Production-Grade SaaS AI Platforms** & RAG Architectures
+- ⚡ **Multi-LLM Failover Routing** & Agentic AI Workflows
+- 👁️ **Explainable Deep Learning Models** (XAI & Computer Vision)
+- 🌐 **Enterprise Full-Stack SaaS Systems** (Next.js & FastAPI)
 
 </td>
 <td width="50%">
 
-### 🌱 Learning & Exploring
-- **Autonomous Multi-Agent Swarms** & LLM Orchestration
-- **Distributed Microservices** & System Architecture
-- **Production MLOps** & LLM Evaluation Frameworks
-- **Advanced Hybrid Vector Search** & Graph RAG
+### 🌱 Research & Deep Dives
+- 🤖 **Autonomous Multi-Agent Swarms** & LLM Orchestration
+- 🏗️ **Distributed Microservices** & High-Availability Architecture
+- 📊 **Production MLOps** & LLM Evaluation Frameworks
+- 🔍 **Advanced Hybrid Vector Search** & Graph RAG Indexing
 
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Featured SaaS & AI Projects
+
+<details open>
+<summary><b>📄 PaperLens AI — RAG-Powered Research Paper Assistant</b></summary>
+<br>
+
+> **AI-Driven Academic Research Platform with Persistent Vector Search & Multi-LLM Routing**
+
+- ⚡ **Production Vector Storage**: Persistent vector search with **Supabase `pgvector`** & **FAISS** with generator-based PyMuPDF parsing.
+- 🎯 **Citation Validation Pipeline**: 4-stage automated validation (`DOI → Exact → Title → Loose`) via Semantic Scholar API with real-time **Server-Sent Events (SSE)** progress streaming.
+- 🧠 **Resilient Multi-LLM Routing**: Automatic failover powering 6+ AI research modules (Contextual Q&A, Experiment Planner, Research Gap Detection, Problem Generator).
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase_pgvector-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_LLaMA_3-F54A00?style=flat-square&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>🍇 FruitQ-GradeX — Explainable AI Quality Assessment SaaS</b></summary>
+<br>
+
+> **IEEE Published Multi-Head Computer Vision Framework with Grad-CAM Explainability**
+
+- 👁️ **Multi-Head Deep Learning**: Custom CNN architecture achieving **97%+ test accuracy** for joint fruit classification & quality grading.
+- 🔬 **Grad-CAM Explainability**: Integrated visual attention heatmaps visualizing model decision rationale, deployed via Streamlit.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grad--CAM_XAI-00D9FF?style=flat-square" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>🎓 SSH — Observable Student Management Platform</b></summary>
+<br>
+
+> **Enterprise Multi-Portal SaaS with Full Observability Telemetry**
+
+- 🔒 **3-Portal Microservices**: Admin, Faculty, and Student portals with 25+ REST API endpoints engineered for NAAC/AICTE compliance.
+- 🛡️ **Production Observability**: Integrated JWT auth, strict CORS, rate-limiting, **Pino structured logging**, and **OpenTelemetry** continuous tracing.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+</p>
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
