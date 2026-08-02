@@ -20,7 +20,7 @@
 <div align="center">
 
 🎓 **B.Tech CSE (AIML)** @ The Neotia University *(CGPA: 9.42)* &nbsp;|&nbsp; 📍 West Bengal, India  
-💼 **AI/ML Research Intern** @ NIT Durgapur &nbsp;|&nbsp; 🔬 **3 Published IEEE Papers**
+💼 **AI/ML Research Intern** @ NIT Durgapur &nbsp;|&nbsp; 🔬 **4 Published Papers (IEEE & Springer)**
 
 </div>
 
@@ -333,6 +333,16 @@ Hey there! 👋 I'm **Arpan Pramanik**, a passionate **AI/ML Engineer & Full-Sta
 >
 > Hybrid CNN-ViT model for simultaneous crop classification and quality assessment. Reduces parameters by 30%+. **98.45% potato & 97.49% tomato classification accuracy** with 98.5% quality assessment.
 
+---
+
+> **Paper 4:** ***Hyperspectral Fruit and Vegetable Classification Using Convolutional Neural Networks with EfficientNetB3***
+>
+> Shibdas Dutta, Subhrendu Guha Neogi, **Arpan Pramanik**, Diya Chanda, Özgün Girgin, Enes Ladin Öncül
+>
+> [DOI: 10.1007/978-3-032-21901-5_35](https://doi.org/10.1007/978-3-032-21901-5_35)
+>
+> Transfer learning framework with EfficientNetB3 across 4,320 hyperspectral images over 36 classes. **99.29% training & 97.21% test accuracy** for intelligent sorting, deployed via Streamlit & OpenCV.
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -364,7 +374,7 @@ Hey there! 👋 I'm **Arpan Pramanik**, a passionate **AI/ML Engineer & Full-Sta
 | ✨ 15+ Machine Learning Projects | 🚀 10+ Production Deployments |
 | 🎯 99.9% Model Accuracy Achieved | 💻 Full-Stack Development |
 | 📊 Advanced Data Analysis | ☁️ Cloud Deployment Experience |
-| 🔬 3 Published Research Papers | 🌐 RESTful API Development |
+| 🔬 4 Published Research Papers | 🌐 RESTful API Development |
 
 </div>
 
