@@ -303,55 +303,41 @@ Hey there! 👋 I'm **Arpan Pramanik**, a passionate **AI/ML Engineer & Full-Sta
 
 ## 📄 Research & Publications
 
-<div align="center">
+<br>
 
-> **Paper 1:** ***FruitQ-GradeX: Determining Fruit Quality and Grading with Explainable Deep Learning***
->
-> ![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white) ![ICRITO 2025](https://img.shields.io/badge/ICRITO_2025-00D9FF?style=flat-square&logoColor=black)
->
-> Shibdas Dutta, Subhrendu Guha Neogi, Diya Chanda, **Arpan Pramanik**, Özgün Girgin, Enes Ladin Öncül
->
-> [DOI: 10.1109/ICRITO66076.2025.11241706](https://doi.org/10.1109/ICRITO66076.2025.11241706)
->
-> Multi-task deep learning framework for fruit classification and quality assessment using multi-headed CNN. **98% classification & 99% quality detection accuracy** with Grad-CAM interpretability.
+### 📜 Paper 1: FruitQ-GradeX: Determining Fruit Quality and Grading with Explainable Deep Learning
+![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white) ![ICRITO 2025](https://img.shields.io/badge/ICRITO_2025-00D9FF?style=flat-square&logoColor=black)
+
+- 👥 **Authors:** Shibdas Dutta, Subhrendu Guha Neogi, Diya Chanda, **Arpan Pramanik**, Özgün Girgin, Enes Ladin Öncül
+- 🔗 **DOI:** [10.1109/ICRITO66076.2025.11241706](https://doi.org/10.1109/ICRITO66076.2025.11241706)
+- 💡 **Summary:** Multi-task deep learning framework for fruit classification and quality assessment using multi-headed CNN. **98% classification & 99% quality detection accuracy** with Grad-CAM interpretability.
 
 ---
 
-> **Paper 2:** ***CropSense: Explainable Deep Learning Framework for Accurate Quality Detection in Solanaceous Crops***
->
-> ![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white) ![ICRITO 2025](https://img.shields.io/badge/ICRITO_2025-00D9FF?style=flat-square&logoColor=black)
->
-> Shibdas Dutta, Subhrendu Guha Neogi, Shiladitya Chowdhury, Vikrant Chole, **Arpan Pramanik**, Diya Chanda
->
-> [DOI: 10.1109/ICRITO66076.2025.11241535](https://doi.org/10.1109/ICRITO66076.2025.11241535)
->
-> Lightweight multi-headed CNN for potato and tomato quality classification. **99.9% crop classification & 98.5% quality detection accuracy** with Grad-CAM, deployed via Streamlit.
+### 📜 Paper 2: CropSense: Explainable Deep Learning Framework for Accurate Quality Detection in Solanaceous Crops
+![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white) ![ICRITO 2025](https://img.shields.io/badge/ICRITO_2025-00D9FF?style=flat-square&logoColor=black)
+
+- 👥 **Authors:** Shibdas Dutta, Subhrendu Guha Neogi, Shiladitya Chowdhury, Vikrant Chole, **Arpan Pramanik**, Diya Chanda
+- 🔗 **DOI:** [10.1109/ICRITO66076.2025.11241535](https://doi.org/10.1109/ICRITO66076.2025.11241535)
+- 💡 **Summary:** Lightweight multi-headed CNN for potato and tomato quality classification. **99.9% crop classification & 98.5% quality detection accuracy** with Grad-CAM, deployed via Streamlit.
 
 ---
 
-> **Paper 3:** ***An Explainable Deep Learning Approach for Quality Assessment in Solanaceous Crops***
->
-> ![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white) ![COMPUTINGCON 2025](https://img.shields.io/badge/COMPUTINGCON_2025-00D9FF?style=flat-square&logoColor=black)
->
-> Shibdas Dutta, Barshan Adhikari, **Arpan Pramanik**, Diya Chanda
->
-> [DOI: 10.1109/COMPUTINGCON64838.2025.11376762](https://doi.org/10.1109/COMPUTINGCON64838.2025.11376762)
->
-> Hybrid CNN-ViT model for simultaneous crop classification and quality assessment. Reduces parameters by 30%+. **98.45% potato & 97.49% tomato classification accuracy** with 98.5% quality assessment.
+### 📜 Paper 3: An Explainable Deep Learning Approach for Quality Assessment in Solanaceous Crops
+![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white) ![COMPUTINGCON 2025](https://img.shields.io/badge/COMPUTINGCON_2025-00D9FF?style=flat-square&logoColor=black)
+
+- 👥 **Authors:** Shibdas Dutta, Barshan Adhikari, **Arpan Pramanik**, Diya Chanda
+- 🔗 **DOI:** [10.1109/COMPUTINGCON64838.2025.11376762](https://doi.org/10.1109/COMPUTINGCON64838.2025.11376762)
+- 💡 **Summary:** Hybrid CNN-ViT model for simultaneous crop classification and quality assessment. Reduces parameters by 30%+. **98.45% potato & 97.49% tomato classification accuracy** with 98.5% quality assessment.
 
 ---
 
-> **Paper 4:** ***Hyperspectral Fruit and Vegetable Classification Using Convolutional Neural Networks with EfficientNetB3***
->
-> ![Springer](https://img.shields.io/badge/Springer-002D62?style=flat-square&logo=springer&logoColor=white) ![ICDMIS 2025](https://img.shields.io/badge/ICDMIS_2025-00D9FF?style=flat-square&logoColor=black)
->
-> Shibdas Dutta, Subhrendu Guha Neogi, **Arpan Pramanik**, Diya Chanda, Özgün Girgin, Enes Ladin Öncül
->
-> [DOI: 10.1007/978-3-032-21901-5_35](https://doi.org/10.1007/978-3-032-21901-5_35)
->
-> Transfer learning framework with EfficientNetB3 across 4,320 hyperspectral images over 36 classes. **99.29% training & 97.21% test accuracy** for intelligent sorting, deployed via Streamlit & OpenCV.
+### 📜 Paper 4: Hyperspectral Fruit and Vegetable Classification Using Convolutional Neural Networks with EfficientNetB3
+![Springer](https://img.shields.io/badge/Springer-002D62?style=flat-square&logo=springer&logoColor=white) ![ICDMIS 2025](https://img.shields.io/badge/ICDMIS_2025-00D9FF?style=flat-square&logoColor=black)
 
-</div>
+- 👥 **Authors:** Shibdas Dutta, Subhrendu Guha Neogi, **Arpan Pramanik**, Diya Chanda, Özgün Girgin, Enes Ladin Öncül
+- 🔗 **DOI:** [10.1007/978-3-032-21901-5_35](https://doi.org/10.1007/978-3-032-21901-5_35)
+- 💡 **Summary:** Transfer learning framework with EfficientNetB3 across 4,320 hyperspectral images over 36 classes. **99.29% training & 97.21% test accuracy** for intelligent sorting, deployed via Streamlit & OpenCV.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
