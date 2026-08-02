@@ -307,6 +307,8 @@ Hey there! 👋 I'm **Arpan Pramanik**, a passionate **AI/ML Engineer & Full-Sta
 
 > **Paper 1:** ***FruitQ-GradeX: Determining Fruit Quality and Grading with Explainable Deep Learning***
 >
+> ![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white) ![ICRITO 2025](https://img.shields.io/badge/ICRITO_2025-00D9FF?style=flat-square&logoColor=black)
+>
 > Shibdas Dutta, Subhrendu Guha Neogi, Diya Chanda, **Arpan Pramanik**, Özgün Girgin, Enes Ladin Öncül
 >
 > [DOI: 10.1109/ICRITO66076.2025.11241706](https://doi.org/10.1109/ICRITO66076.2025.11241706)
@@ -316,6 +318,8 @@ Hey there! 👋 I'm **Arpan Pramanik**, a passionate **AI/ML Engineer & Full-Sta
 ---
 
 > **Paper 2:** ***CropSense: Explainable Deep Learning Framework for Accurate Quality Detection in Solanaceous Crops***
+>
+> ![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white) ![ICRITO 2025](https://img.shields.io/badge/ICRITO_2025-00D9FF?style=flat-square&logoColor=black)
 >
 > Shibdas Dutta, Subhrendu Guha Neogi, Shiladitya Chowdhury, Vikrant Chole, **Arpan Pramanik**, Diya Chanda
 >
@@ -327,6 +331,8 @@ Hey there! 👋 I'm **Arpan Pramanik**, a passionate **AI/ML Engineer & Full-Sta
 
 > **Paper 3:** ***An Explainable Deep Learning Approach for Quality Assessment in Solanaceous Crops***
 >
+> ![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white) ![COMPUTINGCON 2025](https://img.shields.io/badge/COMPUTINGCON_2025-00D9FF?style=flat-square&logoColor=black)
+>
 > Shibdas Dutta, Barshan Adhikari, **Arpan Pramanik**, Diya Chanda
 >
 > [DOI: 10.1109/COMPUTINGCON64838.2025.11376762](https://doi.org/10.1109/COMPUTINGCON64838.2025.11376762)
@@ -336,6 +342,8 @@ Hey there! 👋 I'm **Arpan Pramanik**, a passionate **AI/ML Engineer & Full-Sta
 ---
 
 > **Paper 4:** ***Hyperspectral Fruit and Vegetable Classification Using Convolutional Neural Networks with EfficientNetB3***
+>
+> ![Springer](https://img.shields.io/badge/Springer-002D62?style=flat-square&logo=springer&logoColor=white) ![ICDMIS 2025](https://img.shields.io/badge/ICDMIS_2025-00D9FF?style=flat-square&logoColor=black)
 >
 > Shibdas Dutta, Subhrendu Guha Neogi, **Arpan Pramanik**, Diya Chanda, Özgün Girgin, Enes Ladin Öncül
 >
