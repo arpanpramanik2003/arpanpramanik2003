@@ -19,18 +19,23 @@
 
 <div align="center">
 
-🎓 **B.Tech CSE (AIML)** @ The Neotia University &nbsp;|&nbsp; 📍 West Bengal, India
+🎓 **B.Tech CSE (AIML)** @ The Neotia University *(CGPA: 9.42)* &nbsp;|&nbsp; 📍 West Bengal, India  
+💼 **AI/ML Research Intern** @ NIT Durgapur &nbsp;|&nbsp; 🔬 **3 Published IEEE Papers**
 
 </div>
 
 <br>
 
-- 🤖 Building intelligent systems with **TensorFlow, PyTorch & LangChain**
-- 🌐 Creating full-stack applications with the **MERN stack**
-- 👁️ Developing CNN models for **computer vision** applications
-- ☁️ Deploying scalable solutions on **AWS, Render & Railway**
-- 🔌 Designing RESTful services with **Node.js & FastAPI**
-- 🧠 Exploring **LLMs, RAG pipelines & AI agents** with Ollama & LangChain
+Hey there! 👋 I'm **Arpan Pramanik**, a passionate **AI/ML Engineer & Full-Stack Developer** focused on building **production-grade SaaS AI applications** that bridge cutting-edge artificial intelligence with scalable, enterprise-grade cloud architecture.
+
+### 🌟 What I Do
+
+- 🚀 **Production-Grade SaaS AI**: Engineering end-to-end AI SaaS platforms featuring persistent vector stores (`pgvector`/`FAISS`), multi-LLM failover routing, and real-time event streaming (`SSE`).
+- 🧠 **Generative AI & Agentic Workflows**: Architecting production RAG pipelines, autonomous AI agents, contextual Q&A engines, and document intelligence with **LangChain, Groq & Ollama**.
+- 🔬 **Explainable AI (XAI) & Computer Vision**: Developing custom deep learning architectures (multi-headed CNNs, EfficientNet + RBF-SVM) with **Grad-CAM interpretability** for real-world inspection.
+- ⚡ **Scalable Full-Stack Engineering**: Building high-performance, responsive web applications using **Next.js, React, Node.js, Express & FastAPI** with 3-tier authorization.
+- 📊 **Enterprise Observability & Security**: Implementing production-ready distributed monitoring, system tracing, and structured logging with **OpenTelemetry, Prometheus & Pino**.
+- ☁️ **Cloud & MLOps Infrastructure**: Deploying scalable containerized & serverless microservices across **AWS (EC2/S3/Lambda), Docker, Vercel & Railway**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -212,19 +217,19 @@
 <td width="50%">
 
 ### 🔭 Working On
-- Advanced Deep Learning Projects
-- Full-Stack Web Applications
-- Cloud-Native Architectures
-- Research Publications
+- **Production-Grade SaaS AI Platforms** & RAG Architectures
+- **Multi-LLM Failover Routing** & Agentic AI Workflows
+- **Explainable Deep Learning Models** (XAI & Computer Vision)
+- **High-Performance Full-Stack Applications** (Next.js & FastAPI)
 
 </td>
 <td width="50%">
 
-### 🌱 Learning
-- Microservices & System Design
-- Advanced Computer Vision
-- MLOps & Model Deployment
-- LLMs, RAG & AI Agents
+### 🌱 Learning & Exploring
+- **Autonomous Multi-Agent Swarms** & LLM Orchestration
+- **Distributed Microservices** & System Architecture
+- **Production MLOps** & LLM Evaluation Frameworks
+- **Advanced Hybrid Vector Search** & Graph RAG
 
 </td>
 </tr>
