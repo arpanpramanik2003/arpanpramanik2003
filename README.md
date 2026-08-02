@@ -357,22 +357,7 @@ Hey there! 👋 I'm **Arpan Pramanik**, a passionate **AI/ML Engineer & Full-Sta
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌟 Highlights
-
-<div align="center">
-
-| | |
-|---|---|
-| ✨ 15+ Machine Learning Projects | 🚀 10+ Production Deployments |
-| 🎯 99.9% Model Accuracy Achieved | 💻 Full-Stack Development |
-| 📊 Advanced Data Analysis | ☁️ Cloud Deployment Experience |
-| 🔬 4 Published Research Papers | 🌐 RESTful API Development |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📬 Let's Connect
 
