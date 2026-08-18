@@ -163,17 +163,19 @@ Hey there! 👋 I'm **Arpan Pramanik**, a passionate **AI/ML Engineer & Full-Sta
 
 <div align="center">
 
+<!-- Core Overview & Streak Analytics -->
 <a href="https://github.com/arpanpramanik2003">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arpanpramanik2003&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=arpanpramanik2003&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/arpanpramanik2003">
-  <img width="49%" src="https://streak-stats.demolab.com?user=arpanpramanik2003&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-streak-stats-phi.vercel.app/?user=arpanpramanik2003&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=ffffff&dates=8892b0" alt="GitHub Streak" />
 </a>
 
-<br>
+<br><br>
 
+<!-- Top Languages Analytics -->
 <a href="https://github.com/arpanpramanik2003">
-  <img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arpanpramanik2003&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&count_private=true&hide=jupyter%20notebook&cache_seconds=86400" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arpanpramanik2003&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&count_private=true&hide=jupyter%20notebook" alt="Top Languages" />
 </a>
 
 </div>
@@ -181,7 +183,9 @@ Hey there! 👋 I'm **Arpan Pramanik**, a passionate **AI/ML Engineer & Full-Sta
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpanpramanik2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF" width="95%" alt="Activity Graph" />
+  <a href="https://github.com/arpanpramanik2003">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpanpramanik2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF" width="98%" alt="Activity Graph" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
