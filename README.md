@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/arpan-pramanik-6a409228a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:pramanikarpan089@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/arpanpramanik2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://arpanpramanik.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://arpanpramanik.tech/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=arpanpramanik2003&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -212,7 +212,7 @@ Hey there! 👋 I'm **Arpan Pramanik**, an **AI/ML Engineer & Full-Stack Archite
 <p align="center">
   <a href="mailto:pramanikarpan089@gmail.com"><img src="https://img.shields.io/badge/pramanikarpan089@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/arpan-pramanik-6a409228a"><img src="https://img.shields.io/badge/Arpan_Pramanik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://arpanpramanik.dev/"><img src="https://img.shields.io/badge/arpanpramanik.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://arpanpramanik.tech/"><img src="https://img.shields.io/badge/arpanpramanik.tech-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ⚡ *"Code is like humor. When you have to explain it, it's bad."* — Cory House
